@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://titotapias-design.github.io/liont-shop/sitemap.xml
